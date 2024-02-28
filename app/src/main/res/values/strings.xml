@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RandomUser</string>
+    <string name="contactsTitle">Contactos</string>
+    <string name="user_gender">Género</string>
+    <string name="user_name">Nombre y apellidos</string>
+    <string name="user_email">Email</string>
+    <string name="user_phone">Teléfono</string>
+    <string name="user_address">Dirección</string>
+    <string name="user_registrationdate">Fecha de registro</string>
+    <string name="map_default">Location</string>
+    <string name="img_edit">Editar Foto</string>
+    <string name="profile_edit">Editar Perfil</string>
+    <string name="img_profile">Imagen perfil</string>
+    <string name="img_background">Imagen Fondo</string>
+</resources>
